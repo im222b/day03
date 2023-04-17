@@ -15,10 +15,7 @@ public class Ex03 {
 			msg = "성인";
 		
 		}
-			System.out.println("당신은"+ msg+" 입니다.");
-		
-		
-			
+			System.out.println("당신은 "+ msg+" 입니다.");
 		
 	}
 }
